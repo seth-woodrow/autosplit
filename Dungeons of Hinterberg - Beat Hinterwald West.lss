@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Dungeons of Hinterberg</GameName>
+  <CategoryName>Beat Hinterwald West</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>10</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/06/2024 11:30:44" isStartedSynced="True" ended="08/06/2024 11:41:14" isEndedSynced="True" />
+    <Attempt id="2" started="09/26/2024 02:43:49" isStartedSynced="True" ended="09/26/2024 02:43:50" isEndedSynced="True" />
+    <Attempt id="3" started="09/26/2024 02:43:51" isStartedSynced="True" ended="09/26/2024 02:43:51" isEndedSynced="True" />
+    <Attempt id="4" started="09/26/2024 02:43:52" isStartedSynced="True" ended="09/26/2024 02:43:53" isEndedSynced="True" />
+    <Attempt id="5" started="09/27/2024 12:45:23" isStartedSynced="True" ended="09/27/2024 12:53:18" isEndedSynced="True" />
+    <Attempt id="6" started="09/27/2024 12:53:28" isStartedSynced="True" ended="09/27/2024 12:53:29" isEndedSynced="True" />
+    <Attempt id="7" started="09/27/2024 12:55:31" isStartedSynced="True" ended="09/27/2024 12:55:32" isEndedSynced="True" />
+    <Attempt id="8" started="09/27/2024 13:00:08" isStartedSynced="True" ended="09/27/2024 13:00:15" isEndedSynced="True" />
+    <Attempt id="9" started="09/28/2024 23:28:27" isStartedSynced="True" ended="09/29/2024 00:27:50" isEndedSynced="True">
+      <RealTime>00:59:21.1332269</RealTime>
+      <PauseTime>00:00:01.8399461</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Tutorial</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:23.1217109</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:23.1217109</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:07:23.1217109</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mineshaft</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:19.3276384</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:56.2059275</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:11:56.2059275</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jelly Tunel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:43.8876875</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:24.5600491</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:06:24.5600491</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Minecart Workshop</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:24.6123352</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:40.7246477</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:08:40.7246477</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Overgrown Cave</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:45:09.3804105</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:44.7680753</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:10:44.7680753</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Extra Day</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:00.7840610</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.4036505</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:03:51.4036505</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hinter West</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:59:21.1332269</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:20.3491659</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:10:20.3491659</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
